@@ -1,2 +1,2 @@
-# Alien_Platform_Beta_V1
+# Alien_Platform
  A side scrolling platformer in progress.
